@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +27,6 @@ Things you may want to cover:
 =======
 # rails-ticketee-project
 >>>>>>> 4a6d5b05fc2cfbc6127778edecaa46b7a818b26a
+=======
+
+>>>>>>> 17cb3f2211cafb2ebb4579a843c770b2d3d8bb4e
